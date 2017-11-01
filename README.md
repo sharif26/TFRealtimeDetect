@@ -7,7 +7,7 @@ python package dependencies:
 * tensorflow   
 * cv2  
 
-Just run the below command from terminal, it will open a window which will invoke webcam or built in laptop cam.
+After cloning or downloading the repo, just run the below command from terminal, it should open a window which will invoke webcam or built in laptop cam. The code is tested on Python version 2.7.X
 > python realtime_detection.py 
 
 After loading, it will start detecting COCO(Common Objects in COntext) objects from camera with label and box.  
