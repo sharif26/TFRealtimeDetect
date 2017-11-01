@@ -2,7 +2,9 @@
 Relatime object detection using Tensor Flow and pre trained model.  
 python package dependencies: 
 * numpy   
-* tensorflow   
+* six  
+* pillow  
+* tensorflow   
 * cv2  
 
 Just run the below command from terminal, it will open a window which will invoke webcam or built in laptop cam.
