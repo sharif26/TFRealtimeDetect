@@ -13,7 +13,7 @@ from PIL import Image
 import cv2
 cap = cv2.VideoCapture(0)
 
-sys.path.append("..")
+#sys.path.append("..")
 from utils import label_map_util
 from utils import visualization_utils as vis_util
 
